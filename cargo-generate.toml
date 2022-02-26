@@ -1,0 +1,6 @@
+[placeholders.level-type]
+type = "string"
+prompt = "What hypervisor to use?"
+choices = ["module", "manager", "runtime"]
+default = "module"
+
